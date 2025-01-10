@@ -1,6 +1,6 @@
 {
-  "name": "Workout Tracker",
-  "short_name": "Tracker",
+  "name": "Workout1",
+  "short_name": "Updated1",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
