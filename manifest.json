@@ -1,10 +1,10 @@
 {
-  "name": "Workout1",
-  "short_name": "Updated1",
+  "name": "Workout Tracker1",
+  "short_name": "Tracker1",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "/icons/android-icon-192x192.png",
